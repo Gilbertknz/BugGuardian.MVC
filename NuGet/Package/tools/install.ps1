@@ -4,7 +4,7 @@ param($installPath, $toolsPath, $package, $project)
 
 try
 {
-  $url = "https://github.com/n3wt0n/BugGuardian.MVC/wiki/Configuration"
+  $url = "https://github.com/gilbertknz/BugGuardian.MVC/wiki/Configuration"
   $dte2 = Get-Interface $dte ([EnvDTE80.DTE2])
   $dte2.ItemOperations.Navigate($url) | Out-Null      
 }

@@ -7,7 +7,7 @@
 		<authors>Davide Benvegnu</authors>    
 		<owners>Davide Benvegnu</owners>   
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<projectUrl>https://github.com/n3wt0n/BugGuardian.MVC</projectUrl>
+		<projectUrl>https://github.com/gilbertknz/BugGuardian.MVC</projectUrl>
 		<license type="expression">MIT</license>
 		<description>BugGuardian.MVC is the official Asp.net MVC extension for BugGuardian.
 		
